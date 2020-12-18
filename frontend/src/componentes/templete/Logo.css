@@ -1,0 +1,14 @@
+aside.logo{
+    background-color: var(--bg);
+    text-align: center;
+}
+aside.logo i{
+    font-size: 50px;
+}
+
+aside.logo p{
+    font-family: 'Anonymous Pro', monospace; 
+    font-size: 30px;
+    margin-top: -20px;
+}
+
